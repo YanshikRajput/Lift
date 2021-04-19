@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\bin\Debug\net5.0\LiftProblem.exe
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\bin\Debug\net5.0\LiftProblem.deps.json
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\bin\Debug\net5.0\LiftProblem.runtimeconfig.json
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\bin\Debug\net5.0\LiftProblem.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\bin\Debug\net5.0\LiftProblem.dll
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\bin\Debug\net5.0\ref\LiftProblem.dll
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\bin\Debug\net5.0\LiftProblem.pdb
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\obj\Debug\net5.0\LiftProblem.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\obj\Debug\net5.0\LiftProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\obj\Debug\net5.0\LiftProblem.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\obj\Debug\net5.0\LiftProblem.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\obj\Debug\net5.0\LiftProblem.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\obj\Debug\net5.0\LiftProblem.dll
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\obj\Debug\net5.0\ref\LiftProblem.dll
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\obj\Debug\net5.0\LiftProblem.pdb
+C:\Users\lenovo\source\repos\LIftProblem\LIftProblem\obj\Debug\net5.0\LiftProblem.genruntimeconfig.cache
